@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Day8_EMP_MVC">
+    <output-path>$PROJECT_DIR$/out/artifacts/Day8_EMP_MVC</output-path>
+    <root id="archive" name="Day8_EMP_MVC.war">
+      <element id="artifact" artifact-name="Day8_EMP_MVC:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/work/tools/ojdbc8-full/ojdbc8.jar" />
+          <element id="file-copy" path="$USER_HOME$/work/tools/ojdbc8-full/oraclepki.jar" />
+          <element id="file-copy" path="$USER_HOME$/work/tools/ojdbc8-full/orai18n.jar" />
+          <element id="file-copy" path="$USER_HOME$/work/tools/ojdbc8-full/osdt_cert.jar" />
+          <element id="file-copy" path="$USER_HOME$/work/tools/ojdbc8-full/osdt_core.jar" />
+          <element id="file-copy" path="$USER_HOME$/work/tools/ojdbc8-full/ucp.jar" />
+          <element id="file-copy" path="$USER_HOME$/work/tools/ojdbc8-full/xdb6.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
